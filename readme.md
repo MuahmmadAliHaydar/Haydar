@@ -32,8 +32,19 @@
 5. Law: Helps in drafting contracts, reviewing legal documents, and conducting legal research.
 6. Customer Support: Automates responses to customer inquiries, reducing manual workload.
 7. Science & Engineering: Provides research assistance, helps with code, and generates summaries of complex technical papers.
-* Example of a code:
-![](https://drive.google.com/file/d/1XtYtZlkii85AFVgoHbacRZhCJ66VnC0l/view?usp=sharing)
+* Example of a code written by GPT:
+Prompt: Write me a python code to say salam to a specific person.
+Output given by GPT: 
+```python
+{
+def say_salam(name):
+    print(f"Salam, {name}!")
+
+# Example usage
+person_name = input("Enter the person's name: ")
+say_salam(person_name)
+
+}
 ## _Efficiency:_
 ### _GPT-4’s general-purpose nature makes it one of the most efficient models across fields. While it may not outperform specialized models in every niche, its versatility allows it to perform well in almost any task with high proficiency._
 
